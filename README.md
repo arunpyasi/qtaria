@@ -12,7 +12,7 @@
 ## Contributors
 
 Thanks to everyone for contributing to the repo. Lets make graeat download manager
-1. [arunpyasi] (https://github.com/arunpyasi)
+1. [arunpyasi] (https://github.com/openarun)
 2. [born-jre] (https://github.com/born-jre)
 3. [Kool Arpan] (https://github.com/kooolarpan)
 4. [Pradip Dhakal] (https://github.com/pradip001)
